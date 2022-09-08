@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Farag</h1>
 <h3 align="center">A passionate mern stack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfarag107&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfarag107" /> </p>
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfarag107" alt="mohamedfarag107" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedFarag107](https://github.com/MohamedFarag107)
 
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedfarag107&show_icons=true&locale=en&layout=compact" alt="mohamedfarag107" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedfarag107&show_icons=true&locale=en" alt="mohamedfarag107" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfarag107&" alt="mohamedfarag107" /></p>
